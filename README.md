@@ -1,7 +1,3 @@
-tko.lifecycle
-============
+This repository is deprecated and the content has been moved to the monorepo at [knockout/tko](https://github.com/knockout/tko).
 
- [![CircleCI](https://circleci.com/gh/knockout/tko.lifecycle.svg?style=svg)](https://circleci.com/gh/knockout/tko.lifecycle)
-
-
-Docs: [docs/life-cycle.md](https://github.com/knockout/tko.lifecycle/blob/master/docs/life-cycle.md)
+This repository will be deleted with notice around the end of 2017.
